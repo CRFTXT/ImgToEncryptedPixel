@@ -1,7 +1,8 @@
 
 # Safe Steg
 
-Ai made Tool for hiding the full image with encryption. it pixelates the image to hide the contents, use case is designed for images that contain texts. POC
+Ai made Tool for hiding the full image with encryption. it pixelates the image to hide the contents, use case is designed for images that contain texts. POC.
+
 the image's size will increase, and the output decrypted image will lose some details (slight color change)
 
 ## Run
