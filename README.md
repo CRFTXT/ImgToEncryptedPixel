@@ -10,10 +10,10 @@ the image's size will increase, and the output decrypted image will lose some de
 Install dependencies
 
 ```bash
-  pip install Pillow cryptography customtkinter
+pip install Pillow cryptography customtkinter
 ```
 To Run
 ```bash
-  python safepng.pyw
+python safepng.pyw
 ```
 
