@@ -1,5 +1,5 @@
 
-# Safe Steg
+# Image to Encrypted Pixel Image
 
 Ai made Tool for hiding the full image with encryption. it pixelates the image to hide the contents, use case is designed for images that contain texts. POC.
 
